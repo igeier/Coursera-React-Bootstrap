@@ -1,0 +1,19 @@
+{
+  "name": "coursera-react-bootstrap",
+  "version": "1.0.0",
+  "description": "This is a test directory",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igeier/Coursera-React-Bootstrap.git"
+  },
+  "author": "Ishaq Geier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igeier/Coursera-React-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/igeier/Coursera-React-Bootstrap#readme"
+}
